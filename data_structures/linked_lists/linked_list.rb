@@ -16,7 +16,7 @@ class LinkedList
   def delete(val)
     current.next = @head
 
-    if current.val = d
+    if current.val = val
       @head = current.next
     else
       while(current.next != nil) && (current.next.val != val)
