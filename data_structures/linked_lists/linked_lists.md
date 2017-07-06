@@ -76,3 +76,8 @@ class LinkedList
   end
 end
 ```
+#### Adding A Node
+When we want to add a `Node`, we check to see if the existing `Node` points to another `Node`, if it is `nil` we can then create our new `Node`
+
+#### Deleting A Node
+When we want to delete a `Node`, we find the previous node `current` and set `current.next` equal to `current.next.next`
