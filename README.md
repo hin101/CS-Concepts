@@ -7,3 +7,5 @@ In this repo, I will aim to explain and implement the core data structures and a
 - [Linked Lists](data_structures/linked_lists/linked_lists.md)
 - [Stack](data_structures/stack/stack.md)
 - [Queue](data_structures/queue/queue.md)
+### Algorithms
+- [Binary Search](algorithms/binary_search.md)
