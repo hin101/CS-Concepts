@@ -10,7 +10,7 @@ A stack can also be used to implement a recursive algorithm iteratively.
 
 Stack Operations
 ----------------
-* `pop()`: Removes the top item from the stack.
+* `pop`: Removes the top item from the stack.
 * `push(item)`: Add an item to the top of the stack.
-* `peek()`: Return the top of the stack.
+* `peek`: Return the top of the stack.
 * `empty?`: Return true if the stack is empty.
