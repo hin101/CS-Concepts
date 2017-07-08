@@ -11,3 +11,5 @@ In this repo, I will aim to explain and implement the core data structures and a
 - [Tries](data_structures/tries/tries.md)
 ### Algorithms
 - [Binary Search](algorithms/binary_search.md)
+- [Breadth-First Search](#)
+- [Depth-First Search](#)
